@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "wonhoi_moive_review_service_app"
