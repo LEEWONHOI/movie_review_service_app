@@ -9,19 +9,22 @@
 ## 📖 상세 화면
 
 <div align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/458250e8-201d-455f-b6aa-5c96291d4d61/Screenshot_1627532857.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T034719Z&X-Amz-Expires=86400&X-Amz-Signature=046c2c4c4b283481bfae550167be465b35b028f6c564741f03335fd2e8e55d52&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1627532857.png%22&x-id=GetObject" width="30%" >
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e415e74-c885-4aaa-bc7a-0221d34ccd1c/Screenshot_1627532870.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T034721Z&X-Amz-Expires=86400&X-Amz-Signature=82f9a170d612d879c68bc0c168933e620abfa2889d00dcc687bcc326bd44dcb0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1627532870.png%22&x-id=GetObject" width="30%" >
+  <img src="https://user-images.githubusercontent.com/78194843/169429120-327b114d-d183-4882-8943-a0aee8a03769.png" width="35%" >
+  <img src="https://user-images.githubusercontent.com/78194843/169429125-c9906059-3110-4e1a-8120-e1a913383022.png" width="35%" >
 </div>
 
 <div align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaa6777e-52b1-4100-ba1e-17202b7149c4/Screenshot_1627532911.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T034739Z&X-Amz-Expires=86400&X-Amz-Signature=2d8478bdd3ca11f9bee197b535b944a192115bc8e487056cb8808f45c6805302&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1627532911.png%22&x-id=GetObject" width="30%" >
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6c9941a-e421-4bc0-9300-575b36b60bfb/Screenshot_1627533156.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T034740Z&X-Amz-Expires=86400&X-Amz-Signature=01f7e46b120596c2ea6bcfafec901dfd1950272d9f8163e73c6b084e6087ea24&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1627533156.png%22&x-id=GetObject" width="30%" >
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ef9e03cf-d39c-41e7-905f-d8511cd92f65/Screenshot_1627532953.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T034741Z&X-Amz-Expires=86400&X-Amz-Signature=4ccb7dd8371907b379e3d5a6f6cc66b5b3847525c7978de5e103d569d2a237dd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1627532953.png%22&x-id=GetObject" width="30%" >
+  <img src="https://user-images.githubusercontent.com/78194843/169429127-ae57abe7-ad14-4df0-b7d0-6fdb74b1ac7c.png" width="30%" >
+  
+  <img src="https://user-images.githubusercontent.com/78194843/169429130-5134549a-d64d-4f17-ad3e-67c61bdf9ea5.png" width="30%" >
+  
+  <img src="https://user-images.githubusercontent.com/78194843/169429132-f4f5d207-7e53-4bf5-adaf-081a1a60e0e6.png" width="30%" >
 </div>
 
-
 <div align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4f432b83-820c-47f6-b557-907850f4a2a3/%EC%98%81%ED%99%94_%EB%A6%AC%EB%B7%B0_%EC%95%B1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T034801Z&X-Amz-Expires=86400&X-Amz-Signature=130ffdc610634def62a9f168b8da11651166949c8e4b003b7042468902c66a26&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EC%2598%2581%25ED%2599%2594%2520%25EB%25A6%25AC%25EB%25B7%25B0%2520%25EC%2595%25B1.gif%22&x-id=GetObject" width="35%" >
+  
+  
+  <img src="https://user-images.githubusercontent.com/78194843/169429134-b523530a-d390-4f42-bba4-3369f1da97a1.gif" width="100%" >
 </div>
 
 <br/>
@@ -57,7 +60,7 @@
 
 ## 📋 앱 구조
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6368f264-292b-4702-b314-0248062b13ca/movie_review_app_map.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T034541Z&X-Amz-Expires=86400&X-Amz-Signature=2a251f662582635328702fb362d233f5ad23bde7043e2d1ae95917aafb0261c8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22movie_review_app_map.png%22&x-id=GetObject" width="100%" >
+<img src="https://user-images.githubusercontent.com/78194843/169429135-3f4bb328-2e72-4be5-ae03-023f1763212b.png" width="100%" >
 
 <br/>
 <br/>
